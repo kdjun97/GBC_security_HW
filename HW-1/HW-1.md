@@ -15,6 +15,13 @@
 
 ---
 ~~나는 김광교수님이 하시는 19년도 동계방학 Programming Solving 시간에도 느꼈었지만, Python이 대단하다고 느꼈는데, c++과 비교해서, 소스가 굉장히 짧았다.~~  
+KeyLogging 의 정의.  
+> Keystroke loggin의 약자로, 말 그대로 사용자의 키보드 입력을 추적, 기록한다는 의미.  
+
+실제로, 미국 정보수사기관 FBI는 1999년 필라델피아 지역의 마피아 보스인 니코데모 스카프로 주니어를 추적, 검거하는 과정에서 키로거 설치 전략을 활용한 것으로 알려져 있다.  
+FBI는 스카프로의 모든 키보드 입력 기록을 추적했고, 해당 정보를 바탕으로 기소 혐의를 구체화할 수 있었다. [출처](https://www.itworld.co.kr/news/105401)  
+
+---
 
 본 HW-1은 [This Link](https://www.geeksforgeeks.org/design-a-keylogger-in-python/)  를 참고하였음.  
 Python의 가장 큰 장점이라고 할 수 있는 다양한 라이브러리를 이용하여, KeyLogger를 만들고, 그 소스를 첨부할 것이다.  
