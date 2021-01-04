@@ -26,7 +26,7 @@ Install Link: [pyHook](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyhook)  [win
 
 **Source**  [출처](https://www.geeksforgeeks.org/design-a-keylogger-in-python/)  
 ![source](img/source.PNG)  
-**Result**  [출처](https://www.geeksforgeeks.org/design-a-keylogger-in-python/)
+**Result**  [출처](https://www.geeksforgeeks.org/design-a-keylogger-in-python/)  
 ![Python_gif](img/python_keylogger.gif)  
 위 그림처럼, 자신이 타이핑한 정보들이 저장이 txt에 저장이 되는데, 이를 악용해서 어떠한 홈페이지에 login을 할 때, id, pw를 메일로 보내게끔 많이 만든다고 한다.  
 
