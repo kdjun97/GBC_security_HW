@@ -110,6 +110,7 @@ input은 a지만, cmp할때, [ebp-8]의 메모리리값을 0x10으로 바꿔줬�
 
 ![05_another2](img/05_another2.PNG)  
 이 부분은 eax값이 0이라 이미 건드릴게 없다.  
+인풋을 그냥 0으로 set해주면 and에서 무조건 0이 된다.  
 이 방법으로도 password ok는 뜬다.  
 
 끝.  
